@@ -1,0 +1,7 @@
+Name: Priya | Marks: 95 | Expected Grade: A
+Name: Rahul | Marks: 85 | Expected Grade: B
+Name: Sneha | Marks: 75 | Expected Grade: C
+Name: Arjun | Marks: 65 | Expected Grade: D
+Name: Kiran | Marks: 45 | Expected Grade: F
+Marks: -5 → Invalid input
+Marks: 120 → Invalid input
